@@ -1,3 +1,4 @@
+// This is a code that draws a triangle with asterisks on the screen
 public class Triangle {
   public static void main(String[] args) {
     int rows = 10, columns = rows / 2, length = 1;
